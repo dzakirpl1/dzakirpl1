@@ -1,6 +1,6 @@
 ## Hai, saya Dzaki 👋
 
-**Software Engineer** yang suka membangun aplikasi web dan mobile, mulai dari database, backend, sampai tampilan.
+**Software Engineer & Content Writer** yang suka membangun aplikasi web dan mobile, mulai dari database, backend, sampai tampilan.
 
 ### Yang sedang saya kerjakan
 - 🛒 **SimToko**: sistem informasi toko
@@ -18,6 +18,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Selain coding
+- ✍️ Content writing, press release, dan SEO (E-E-A-T)
+- 🌐 Pengelolaan domain dan website dari nol sampai maintenance
+
 ### Statistik GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=dzakirpl1&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakirpl1&layout=compact&theme=dark)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dzakirpl1&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakirpl1&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+### Hubungi saya
+- 🔗 Portofolio: [isi link portofolio kamu]
+- 💻 GitHub: [@dzakirpl1](https://github.com/dzakirpl1)
+- 📧 Email: [isi email kamu]
